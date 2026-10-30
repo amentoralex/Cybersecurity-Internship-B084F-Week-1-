@@ -1,3 +1,3 @@
-# Netwaorwalks-Alex-B084F-Week1-Cybersecurity-LAB-SETUP
+# NETWORKWALKS-ALEX-B084F-WK1-CYBERSECURITY-LAB-SETUP
 1st Cybersecurity LAB Setup
 
